@@ -1,0 +1,30 @@
+---
+title: "Untitled"
+output: 
+  prettydoc::html_pretty:
+    toc: TRUE
+  theme: Tactile
+  
+
+    
+    
+---
+
+## **Starch hydrolysis**
+### 1. Optimising the protocol
+![](images/20190903_Hydrolysis 6h.png){width=300px}
+
+### 2. Formal experiments
+
+### 3. Curve fitting
+
+## **Find the QTLs (not sure)**
+
+## **Others measurements**
+### Possible measurements
+
+- XRD (x-ray diffraction)
+- Synchrotron
+- DSC (Differential scanning calorimetry)
+- RVA (Rapid visco analyser)
+  
